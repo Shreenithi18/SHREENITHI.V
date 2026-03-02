@@ -1,0 +1,5 @@
+{
+  "name": "EduManage: Engineering College Management System",
+  "description": "A comprehensive college management platform with Admin, Faculty, and Student portals, featuring attendance, OD management, and academic tracking.",
+  "requestFramePermissions": []
+}
